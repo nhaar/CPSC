@@ -1,4 +1,0 @@
-name=30 FPS
-author=Club Penguin
-version=1
-description=30 FPS
