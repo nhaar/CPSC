@@ -1,0 +1,4 @@
+name=EPF Fix
+author=Thestickman391
+version=
+description=Fix meant for older versions of CPSC

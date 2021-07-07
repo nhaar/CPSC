@@ -1,0 +1,4 @@
+name=PL All Berries Unlocked
+author=Thestickman391
+version=
+description=Always has all the berries in Puffle Launch, which means you have IGT unlocked. Sets all times to 10 minutes.

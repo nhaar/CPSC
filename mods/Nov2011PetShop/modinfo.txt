@@ -1,0 +1,4 @@
+name=November 2011 Pet Shop
+author=Club Penguin
+version=1
+description=November 2011 Pet Shop

@@ -1,0 +1,4 @@
+name=Thin Ice IGT
+author=Thestickman391
+version=
+description=Replaces the solved mazes conter with an in-game timer.
